@@ -1,0 +1,19 @@
+{
+  "name": "backupserver",
+  "version": "1.0.0",
+  "description": "Backup server for P4 project",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EJL85/P4-backupServer.git"
+  },
+  "author": "Elliot Jane Lader",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EJL85/P4-backupServer/issues"
+  },
+  "homepage": "https://github.com/EJL85/P4-backupServer#readme"
+}
